@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" margin="0px" width="100px" src="/res/img/logo.png"/>
+  <img margin="0px" width="100px" src="/res/img/logo.png"/>
   <h1 align="center">FoxWare FX</h1>
 </p>
 
@@ -22,5 +22,3 @@
 ### Tools that i use:
 [<img align="left" width="32px" src="/res/img/tools/unity.png"/>](https://unity3d.com/get-unity/download)
 [<img width="32px" src="/res/img/tools/icons8.png"/>](https://icons8.com/)
-
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxWareFX&layout=compact&theme=dark)
