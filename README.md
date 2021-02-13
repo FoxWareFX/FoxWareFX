@@ -1,4 +1,7 @@
-# Hi there 👋
+<p align="center">
+  <img align="center" margin="0px" width="100px" src="/res/img/logo.png"/>
+  <h1 align="center">FoxWare FX</h1>
+</p>
 
 
 ### Languages that I know:
