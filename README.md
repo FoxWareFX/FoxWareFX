@@ -1,20 +1,20 @@
 # Hi there 👋
 
 ### Languages that I know:
-<img align="left" width="32px" src="/res/img/lang/java.png"/>
-<img align="left" width="32px" src="/res/img/lang/cs.png"/>
-<img align="left" width="32px" src="/res/img/lang/cpp.png"/>
-<img align="left" width="32px" src="/res/img/lang/c.png"/>
-<img align="left" width="32px" src="/res/img/lang/js.png"/>
-<img align="left" width="32px" src="/res/img/lang/html.png"/>
-<img width="32px" src="/res/img/lang/css.png"/>
+[<img align="left" width="32px" src="/res/img/lang/java.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/cs.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/cpp.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/c.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/js.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/html.png"/>](#)
+[<img width="32px" src="/res/img/lang/css.png"/>](#)
 
 ### IDEs that i use:
-<img align="left" width="32px" src="/res/img/ide/vscode.png"/>
-<img align="left" width="32px" src="/res/img/ide/intellij.png"/>
-<img align="left" width="32px" src="/res/img/ide/rider.png"/>
-<img width="32px" src="/res/img/ide/clion.png"/>
+[<img align="left" width="32px" src="/res/img/ide/vscode.png"/>](https://code.visualstudio.com)
+[<img align="left" width="32px" src="/res/img/ide/intellij.png"/>](https://www.jetbrains.com/idea/download)
+[<img align="left" width="32px" src="/res/img/ide/rider.png"/>](https://www.jetbrains.com/rider/download)
+[<img width="32px" src="/res/img/ide/clion.png"/>](https://www.jetbrains.com/clion/download)
 
 ### Tools that i use:
-<img align="left" width="32px" src="/res/img/tools/unity.png"/>
-<img width="32px" src="/res/img/tools/icons8.png"/>
+[<img align="left" width="32px" src="/res/img/tools/unity.png"/>](https://unity3d.com/get-unity/download)
+[<img width="32px" src="/res/img/tools/icons8.png"/>](https://icons8.com/)
