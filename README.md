@@ -5,7 +5,7 @@
 <p>
   <b>Favorite Languages:</b> C#, C/C++, Java <br>
   <b>The language I know best:</b> Java <br>
-  <b>Favorite Color:</b> 🟧
+  <b>Favorite Color:</b> 🟧 <br><br>
 </p>
 
 <hr></hr>
