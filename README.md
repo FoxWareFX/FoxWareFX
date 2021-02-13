@@ -4,7 +4,7 @@
 <h3>FoxWare FX</h3>
 <p>
   <b>Favorite Languages:</b> C#, C/C++, Java <br>
-  <b>The language I know best:</b> Java <br>
+  <b>The language I know best:</b> Java ☕ <br>
   <b>Favorite Color:</b> 🟧
 </p>
 
