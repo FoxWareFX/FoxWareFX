@@ -23,4 +23,4 @@
 [<img align="left" width="32px" src="/res/img/tools/unity.png"/>](https://unity3d.com/get-unity/download)
 [<img width="32px" src="/res/img/tools/icons8.png"/>](https://icons8.com/)
 
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxWareFX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxWareFX&layout=compact&theme=dark)
