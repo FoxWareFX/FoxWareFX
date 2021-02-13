@@ -16,4 +16,5 @@
 <img width="32px" src="/res/img/ide/clion.png"/>
 
 ### Tools that i use:
-<img width="32px" src="/res/img/tools/unity.png"/>
+<img align="left" width="32px" src="/res/img/tools/unity.png"/>
+<img width="32px" src="/res/img/tools/icons8.png"/>
