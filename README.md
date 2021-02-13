@@ -1,5 +1,5 @@
-<img align="left" width="140px" src="/res/img/logo.png"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxWareFX&layout=compact&theme=dark&langs_count=4&card_width=200px" />
+<img align="left" width="140px" src="/res/img/logo.png"/>
 
 <h3>FoxWare FX</h3>
 <p>
