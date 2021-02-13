@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet" />
+
 <p align="center">
   <img margin="0px" width="100px" src="/res/img/logo.png"/>
   <h1 align="center">FoxWare FX</h1>
