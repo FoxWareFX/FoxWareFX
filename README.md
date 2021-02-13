@@ -9,8 +9,8 @@
 <img align="left" width="32px" src="/res/img/lang/html.png"/>
 <img width="32px" src="/res/img/lang/css.png"/>
 
-### Tools that i use:
-<img align="left" width="32px" src="/res/img/tools/vscode.png"/>
-<img align="left" width="32px" src="/res/img/tools/intellij.png"/>
-<img align="left" width="32px" src="/res/img/tools/rider.png"/>
-<img align="left" width="32px" src="/res/img/tools/clion.png"/>
+### IDEs that i use:
+<img align="left" width="32px" src="/res/img/ide/vscode.png"/>
+<img align="left" width="32px" src="/res/img/ide/intellij.png"/>
+<img align="left" width="32px" src="/res/img/ide/rider.png"/>
+<img width="32px" src="/res/img/ide/clion.png"/>
