@@ -1,11 +1,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxWareFX&layout=compact&theme=dark&langs_count=6&card_width=225px" />
-<img align="left" width="125px" src="/res/img/logo.png"/>
+<img align="left" width="160px" src="/res/img/logo.png"/>
 
 <h3>FoxWare FX</h3>
 <p>
   <b>Favorite Languages:</b> C#, C/C++, Java <br>
   <b>The language I know best:</b> Java <br>
-  <b>Favorite Color:</b> 🟧
+  <b>Favorite Color:</b> 🟧 <br>
+  <b>Pronouns:</b> He/Him ♂️
 </p>
 
 <hr></hr>
