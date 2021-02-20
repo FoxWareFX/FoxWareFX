@@ -24,7 +24,7 @@
 
 ### IDEs that i use:
 [<img align="left" width="32px" src="/res/img/ide/vscode.png"/>](https://code.visualstudio.com)
-[<img align="left" width="32px" src="/res/img/ide/notepadpp.png"/>](https://notepad-plus-plus.org/downloads/)
+[<img align="left" width="32px" src="/res/img/ide/notepadpp.png"/>](https://notepad-plus-plus.org/downloads)
 [<img align="left" width="32px" src="/res/img/ide/intellij.png"/>](https://www.jetbrains.com/idea/download)
 [<img align="left" width="32px" src="/res/img/ide/rider.png"/>](https://www.jetbrains.com/rider/download)
 [<img align="left" width="32px" src="/res/img/ide/clion.png"/>](https://www.jetbrains.com/clion/download)
@@ -33,10 +33,10 @@
 
 ### Tools that i use:
 [<img align="left" width="32px" src="/res/img/tools/unity.png"/>](https://unity3d.com/get-unity/download)
-[<img align="left" width="32px" src="/res/img/tools/icons8.png"/>](https://icons8.com/)
+[<img align="left" width="32px" src="/res/img/tools/icons8.png"/>](https://icons8.com)
 
 <br>
 
 ### OSs that i use:
 [<img align="left" width="32px" src="/res/img/os/win10.png"/>](https://www.microsoft.com/en-us/software-download/windows10)
-[<img align="left" width="32px" src="/res/img/os/ubuntu.png"/>](https://www.debian.org/distrib/)
+[<img align="left" width="32px" src="/res/img/os/ubuntu.png"/>](https://ubuntu.com/download/desktop)
