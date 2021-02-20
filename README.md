@@ -39,4 +39,4 @@
 
 ### OSs that i use:
 [<img align="left" width="32px" src="/res/img/os/win10.png"/>](https://www.microsoft.com/en-us/software-download/windows10)
-[<img align="left" width="32px" src="/res/img/os/debian.png"/>](https://www.debian.org/distrib/)
+[<img align="left" width="32px" src="/res/img/os/ubuntu.png"/>](https://www.debian.org/distrib/)
