@@ -5,7 +5,7 @@
 <p>
   <b>Favorite Languages:</b> C#, C/C++, Java, JavaScript <br>
   <b>The language I know best:</b> JavaScript <br>
-  <b>Favorite Color:</b> 🟧 <br>
+  <b>Favorite Colors:</b> 🟧🟪 <br>
   <b>Pronouns:</b> He/Him ♂️
 </p>
 
