@@ -27,7 +27,6 @@
 [<img align="left" width="32px" src="/res/img/ide/intellij.png"/>](https://www.jetbrains.com/idea/download)
 [<img align="left" width="32px" src="/res/img/ide/rider.png"/>](https://www.jetbrains.com/rider/download)
 [<img align="left" width="32px" src="/res/img/ide/clion.png"/>](https://www.jetbrains.com/clion/download)
-[<img align="left" width="32px" src="/res/img/ide/androidStudio.png"/>](https://developer.android.com/studio)
 
 <br>
 
