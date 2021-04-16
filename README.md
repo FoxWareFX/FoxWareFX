@@ -21,13 +21,13 @@
 [<img align="left" width="32px" src="/res/img/lang/css.png"/>](#)
 
 <br>
-
 ### IDEs that i use:
 [<img align="left" width="32px" src="/res/img/ide/vscode.png"/>](https://code.visualstudio.com)
 [<img align="left" width="32px" src="/res/img/ide/notepadpp.png"/>](https://notepad-plus-plus.org/downloads)
 [<img align="left" width="32px" src="/res/img/ide/intellij.png"/>](https://www.jetbrains.com/idea/download)
 [<img align="left" width="32px" src="/res/img/ide/rider.png"/>](https://www.jetbrains.com/rider/download)
 [<img align="left" width="32px" src="/res/img/ide/clion.png"/>](https://www.jetbrains.com/clion/download)
+[<img align="left" width="32px" src="/res/img/ide/androidStudio.png"/>](https://developer.android.com/studio)
 
 <br>
 
