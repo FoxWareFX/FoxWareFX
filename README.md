@@ -3,7 +3,7 @@
 
 <h3>FoxWare FX</h3>
 <p>
-  <b>Favorite Languages:</b> C#, C/C++, Java, JavaScript <br>
+  <b>Favorite Languages:</b> JavaScript, Kotlin, C#, C/C++ <br>
   <b>The language I know best:</b> JavaScript <br>
   <b>Favorite Colors:</b> 🟧🟪 <br>
   <b>Pronouns:</b> He/Him ♂️
