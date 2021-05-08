@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxWareFX&layout=compact&theme=dark&langs_count=6&hide=cmake&exclude_repo=win95-keygen,WinToUSB-Crack" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxWareFX&layout=compact&theme=dark&langs_count=6&hide=cmake&count_private=false" />
 <img align="left" width="150px" src="/res/img/logo.png"/>
 
 <h3>FoxWare FX</h3>
