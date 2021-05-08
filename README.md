@@ -12,6 +12,7 @@
 <hr></hr>
 
 ### Languages that I know:
+[<img align="left" width="32px" src="/res/img/lang/kotlin.svg"/>](#)
 [<img align="left" width="32px" src="/res/img/lang/java.png"/>](#)
 [<img align="left" width="32px" src="/res/img/lang/cs.png"/>](#)
 [<img align="left" width="32px" src="/res/img/lang/cpp.png"/>](#)
