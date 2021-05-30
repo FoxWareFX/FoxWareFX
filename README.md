@@ -1,12 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxWareFX&layout=compact&theme=dark&langs_count=6&hide=cmake&count_private=false" />
-<img align="left" width="150px" src="/res/img/logo.png"/>
 
-<h3>FoxWare FX</h3>
+<h3>About me</h3>
 <p>
   <b>Favorite Languages:</b> JavaScript, Kotlin, C#, C/C++ <br>
   <b>The language I know best:</b> JavaScript <br>
   <b>Favorite Colors:</b> 🟧🟪 <br>
-  <b>Pronouns:</b> He/Him ♂️
 </p>
 
 <hr></hr>
@@ -16,7 +14,6 @@
 [<img align="left" width="32px" src="/res/img/lang/java.png"/>](#)
 [<img align="left" width="32px" src="/res/img/lang/cs.png"/>](#)
 [<img align="left" width="32px" src="/res/img/lang/cpp.png"/>](#)
-[<img align="left" width="32px" src="/res/img/lang/c.png"/>](#)
 [<img align="left" width="32px" src="/res/img/lang/js.png"/>](#)
 [<img align="left" width="32px" src="/res/img/lang/html.png"/>](#)
 [<img align="left" width="32px" src="/res/img/lang/css.png"/>](#)
